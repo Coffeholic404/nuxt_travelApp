@@ -9,7 +9,7 @@
         height="24"
         >
         </NuxtImg>
-        <label class="bold-16 whitespace-nowrap">{{ props.title }}</label>
+        <label class="bold-16 whitespace-nowrap cursor-pointer">{{ props.title }}</label>
     </button>
 </template>
 
