@@ -1,7 +1,10 @@
 <template>
     <TheNavbar />
     <main class="relative overflow-hidden">
-        <h1 class=" text-teal-500">Hello Nuxt</h1>
+        <TheHero />
+        <TheCamp />
+        <TheFeatures />
+        <TheGetApp />
     </main>
     <TheFooter />
 </template>

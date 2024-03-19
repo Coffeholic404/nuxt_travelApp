@@ -18,7 +18,7 @@ interface ButtonProps {
     type: 'button' | 'submit'
     title: string
     icon?: string
-    variant: 'btn_dark_green'
+    variant: 'btn_dark_green' | string
 }
 const props = defineProps<ButtonProps>()
 </script>
