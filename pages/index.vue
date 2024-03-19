@@ -3,6 +3,7 @@
     <main class="relative overflow-hidden">
         <TheHero />
         <TheCamp />
+        <TheGuide />
         <TheFeatures />
         <TheGetApp />
     </main>
