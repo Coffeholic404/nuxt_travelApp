@@ -4,7 +4,7 @@
 
             <div class="flex flex-1 lg:min-h-[900px]">
                 <NuxtImg 
-                src="../public/phone.png"
+                src="phone.png"
                 alt="phone"
                 width="440"
                 height="1000"
@@ -15,7 +15,7 @@
             <div class=" z-20 flex w-full flex-col lg:w-[60%]">
                 <div class=" relative">
                     <NuxtImg 
-                    src="../public/camp.svg"
+                    src="camp.svg"
                     alt="camp"
                     width="50"
                     height="50"

@@ -6,7 +6,7 @@
     <!-- leftside -->
     <div class="relative z-20 flex-1 flex-col xl:w1/2">
       <NuxtImg
-        src="../public/camp.svg"
+        src="camp.svg"
         alt="Camp"
         width="50"
         height="50"
@@ -22,7 +22,7 @@
         <div class="flex items-center gap-2">
           <NuxtImg
             v-for="n in 5"
-            src="../public/star.svg"
+            src="star.svg"
             alt="Star"
             width="24"
             height="24"
@@ -52,7 +52,7 @@
           <div class="flexBetween">
             <p class="regular-16 text-gray-20">Location</p>
             <NuxtImg
-              src="../public/close.svg"
+              src="close.svg"
               alt="Close"
               width="24"
               height="24"

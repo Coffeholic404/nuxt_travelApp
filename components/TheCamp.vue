@@ -26,7 +26,7 @@
             </h2>
             <p class=" regular-14 xl:regular-16 mt-5 text-white">Starting from the anxiety of the climbers when visiting a new climbing location, the possibility of getting lost is very large. That's why we are here for those of you who want to start an adventure</p>
             <NuxtImg 
-            src="../public/quote.svg"
+            src="quote.svg"
             alt="Quote"
             width="186"
             height="219"

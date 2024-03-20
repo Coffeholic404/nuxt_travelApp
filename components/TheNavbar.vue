@@ -2,7 +2,7 @@
   <nav class=" flexBetween max-container padding-container relative z-30 py-5">
     <NuxtLink to="/">
         <NuxtImg 
-        src="../public/hilink-logo.svg"
+        src="hilink-logo.svg"
         alt="Logo"
         width="74"
         height="29"
@@ -29,7 +29,7 @@
     </div>
 
     <NuxtImg 
-    src="../public/menu.svg"
+    src="menu.svg"
     alt="Menu"
     width="32"
     height="32"

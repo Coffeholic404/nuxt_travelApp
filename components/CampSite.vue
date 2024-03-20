@@ -4,7 +4,7 @@
             <div class=" flexCenter gap-4">
                 <div class=" rounded-full bg-green-50 p-4">
                     <NuxtImg 
-                    src="../public/folded-map.svg"
+                    src="folded-map.svg"
                     alt="Map"
                     width="28"
                     height="28"
@@ -20,7 +20,7 @@
                 <span  class=" flex -space-x-4 overflow-hidden">
                 <NuxtImg 
                 v-for="people in peopleUrl"
-                :src="`../public${people}`"
+                :src="`${people}`"
                 :key="people"
                 alt="person"
                 height="52"

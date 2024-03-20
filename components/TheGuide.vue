@@ -2,7 +2,7 @@
     <section class="flexCenter flex-col">
         <div class=" padding-container max-container w-full pb-24">
             <NuxtImg 
-            src="../public//camp.svg"
+            src="camp.svg"
             alt="Camp"
             width="50"
             height="50"
@@ -16,7 +16,7 @@
 
         <div class="flexCenter max-container relative w-full">
             <NuxtImg 
-            src="../public/boat.png"
+            src="boat.png"
             format="avif"
             alt="Boat"
             width="1440"
@@ -26,7 +26,7 @@
 
             <div class="absolute flex bg-white py-8 pl-5 pr-7 gap-3 rounded-3xl border shadow-md md:left-[5%] lg:top-20">
                 <NuxtImg 
-                src="../public/meter.svg"
+                src="meter.svg"
                 alt="Meter"
                 width="16"
                 height="158"
