@@ -38,7 +38,7 @@
         <TheButton
           type="button"
           title="How We Work?"
-          icon="../public/play.svg"
+          icon="play.svg"
           variant="btn_white_text"
         />
       </div>

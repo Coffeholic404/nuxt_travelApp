@@ -22,7 +22,7 @@
       <TheButton 
       type="button"
       title="Login"
-      icon="../public/user.svg"
+      icon="user.svg"
       variant="btn_dark_green"
       
       />
