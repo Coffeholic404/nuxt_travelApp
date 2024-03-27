@@ -3,16 +3,22 @@
         <div class="max-container padding-container relative w-full flex justify-end">
 
             <div class="flex flex-1 lg:min-h-[900px]">
-                <NuxtImg 
+                <!-- <NuxtImg 
                 src="phone.png"
                 alt="phone"
                 width="440"
                 height="1000"
                 class="feature-phone"
+                /> -->
+                <NuxtImg
+                src="phone.png"
+                alt="phone"
+                width="440"
+                class="feature-phone"
                 />
             </div>
 
-            <div class=" z-20 flex w-full flex-col lg:w-[60%]">
+            <div class="z-20 flex w-full flex-col lg:w-[60%]">
                 <div class=" relative">
                     <NuxtImg 
                     src="camp.svg"
@@ -23,7 +29,7 @@
                     />
                     <h2 class="bold-40 lg:bold-64">Our Features</h2>
                 </div>
-                <ul class=" mt-10 grid gap-10 md:grid-cols-2 lg:mt-20 lg:gap-20">
+                <ul class="mt-10 grid gap-10 md:grid-cols-2 lg:mg-20 lg:gap-20">
                     <FeatureItem />
                 </ul>
             </div>
